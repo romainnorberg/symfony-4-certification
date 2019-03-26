@@ -1,0 +1,2 @@
+"https://{default}/": { type: upstream, upstream: "3swun3nctg6j4:http" }
+"http://{default}/": { type: redirect, to: "https://{default}/" }
