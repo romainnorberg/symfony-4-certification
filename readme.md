@@ -4,11 +4,11 @@ https://certification.symfony.com/
 
 ### PHP and Web Security
 - [ ] PHP API up to PHP 7.2 version
-- [ ] Object Oriented Programming
-- [ ] Namespaces
-- [ ] Interfaces
+- [x] Object Oriented Programming
+- [x] Namespaces
+- [x] Interfaces
 - [ ] Anonymous functions and closures
-- [ ] Abstract classes
+- [x] Abstract classes
 - [ ] Exception and error handling
 - [ ] Traits
 - [ ] PHP extensions
